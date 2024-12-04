@@ -1,0 +1,3 @@
+Accuracy of Dog: 73.00%
+Accuracy of Cat: 68.00%
+Accuracy of Squirrel: 76.00%
